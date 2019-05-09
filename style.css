@@ -1,0 +1,45 @@
+
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+#logo{
+    width: 6%;
+}
+ul{
+
+    list-style: none;
+    text-align: right;
+    margin-top: -21px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 2%;
+    font-weight: bold;
+}
+i{
+    color:#f8b732;
+}
+.tb{
+    color: red;
+}
+td {
+    padding-left: 8%;
+}
+button{
+    background-color: #f2849e;
+    color: white;
+    padding: 1% 2%;
+    font-size: 16px;
+    border: none;
+}
+#btn{
+    color: white;
+}
+#div-one,#div-two{
+    display: inline-block;
+}
